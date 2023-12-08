@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/creational-design-patterns.iml" filepath="$PROJECT_DIR$/creational-design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns.iml" filepath="$PROJECT_DIR$/.idea/design-patterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/structural-design-patterns.iml" filepath="$PROJECT_DIR$/structural-design-patterns.iml" />
     </modules>
   </component>
 </project>
